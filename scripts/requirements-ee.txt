@@ -1,0 +1,2 @@
+# Uso: python3 -m pip install -r scripts/requirements-ee.txt
+earthengine-api>=1.0.0
