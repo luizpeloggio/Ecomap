@@ -12,13 +12,10 @@ além de ver uma série histórica e uma área dedicada a reportar crimes ambien
 
 
 ## Tecnologias usadas
-   ## -> Front End
-         React Native
-         Expo Router
-         
-   ## -> Back End
 
-   ## -> Infraestrutura
+  Typescript
+  JavaScript
+  Python
 
 ## Tela inicial do sistema
 
