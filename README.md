@@ -8,6 +8,8 @@ O **EcoMap** foi desenvolvido como o projeto final da disciplina de Desenvolvime
 O app combina dados científicos reais de satélite (Landsat 9) processados pelo **Google Earth Engine**, mapeamento urbano dinâmico do **OpenStreetMap** (via Overpass API), estatísticas oficiais do **IBGE (SIDRA e Cidades)** e monitoramento de clima e qualidade do ar em tempo real (via **Open-Meteo**), tudo integrado em uma interface unificada e interativa que funciona perfeitamente tanto em smartphones quanto em navegadores web.
 
 ---
+# Tela Inicial
+<img width="300" height="550" alt="ecomap" src="https://github.com/user-attachments/assets/1b6aa300-d207-4d4c-b6c5-0c27c6a94d9f" />
 
 ✨ Funcionalidades
 
